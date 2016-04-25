@@ -8,7 +8,7 @@ Laravel => 5.x
 
 ## Instalação
 Via composer: <br>
-    `composer require gugasobrinho/emails-repository`
+    `composer require --dev gugasobrinho/emails-repository`
 
 
 ## Configurando ServiceProvider

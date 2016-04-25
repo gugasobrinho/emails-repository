@@ -1,0 +1,2 @@
+# emails-repository
+Emails Repository

@@ -31,6 +31,6 @@ Execute o comando abaixo para criar a tabela `emails` no banco de dados: <br>
 Após executar a migration, basta configurar o relacionamento do model `Email` com o seu model, através da `TraitRelacionamento`. <br>
 Adicione as seguintes linha no seu model: <br>
 
-    fora do class:`use GugaSobrinho\EmailsRepository\Traits\TraitRelacionamento;` <br>
+fora do class:`use GugaSobrinho\EmailsRepository\Traits\TraitRelacionamento;` <br>
 
-    dentro do class: `use TraitRelacionamento;`
+dentro do class: `use TraitRelacionamento;`

@@ -8,14 +8,15 @@
             "email": "gustavo.sobrinho01@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": ">=5.1",
+        "illuminate/database": ">=5.1",
+        "illuminate/config": ">=5.1"
+    },
     "autoload": {
         "psr-4": {
             "GugaSobrinho\\EmailsRepository\\": "src/"
         }
-    },
-    "require": {
-        "php": ">=5.5.9",
-        "illuminate/database": "~5.1",
-        "illuminate/support": "~5.1"
     }
 }
